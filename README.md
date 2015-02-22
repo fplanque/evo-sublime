@@ -2,7 +2,7 @@
 
 ### Sublime Text Color Scheme
 
-This is a dark text on light background theme, with vivid highlights.
+This is a dark text on light background theme for [Sublime Text](http://www.sublimetext.com), with vivid highlights.
 
 ![Screenshot of evo-sublime Theme](screenshot.png?raw=true)
 
