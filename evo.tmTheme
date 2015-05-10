@@ -1465,7 +1465,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF88F9</string>
+				<string>#9437ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1491,7 +1491,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#10FF07</string>
+				<string>#941100</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2174,7 +2174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#06FF05</string>
+				<string>#9437ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2424,6 +2424,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.fp</string>
+	<string>theme.light.evo</string>
 </dict>
 </plist>
